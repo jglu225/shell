@@ -1,22 +1,16 @@
+Author: Justin Luttrell
+
 Files:
 	1: msh.cpp
 	2: Makefile
 	3: README
 
-Members:
-	Justin Luttrell
-
-Description:
+Short description:
 	-This project works as a shell that takes
 	 user inputs and tokenizes each word or 
 	 qoutation. The commands given to the program
 	 are interpreted and seperate processes are 
 	 produced for run, fly, and tovar commands.
-
-	-This program tokenizes the users input
-	 by manually scanning each character. 
-	 Depending on each characters value it 
-	 appends to a string to be added to a vector.
 
 	-Lists of data are stored into vectors (ie. tokens,
 	 variables, values) for ease of manipulation.
@@ -27,9 +21,3 @@ Description:
 	-tovar command uses freopen, dup() and dup2 to redirect 
 	 the standard output to a temporary file for writing.
 
-
-Limitations:
-	-tovar expects that you do not type in an invalid
-	 command to run
-
--------------------------------------------------------------- 	
