@@ -1,11 +1,8 @@
 //---------------------------------------------------
-// Authors: Justin Luttrell			    |
-//	    Arthur Davis			    |
+// Author: Justin Luttrell			    |
 // Date: 3/28/2018				    |
-// CS270 Project 4			  	    |
 // File: msh.cpp contains the implementation for    |
-//       the shell project outlined in Project 4 for|
-//       CS270 Spring 2018			    |
+//       the shell project                          |
 //---------------------------------------------------
 
 
